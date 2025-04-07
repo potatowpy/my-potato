@@ -1,0 +1,11 @@
+# 忽略操作系统文件
+.DS_Store
+Thumbs.db
+
+# 忽略 Typora 临时文件
+*.tmp
+~$*
+
+# 忽略大文件
+*.zip
+*.rar
